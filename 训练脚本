@@ -1,0 +1,2 @@
+#ped2
+python pltflow/train.py --train_dir pltflow/train_photos/flownet2 --test_dir pltflow/test_photos/flownet2 --model_save_dir ./pltflow/models --epochs 5 --batch_size 16 --learning_rate 0.0001
